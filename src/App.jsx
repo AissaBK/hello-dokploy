@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello dokploy</h1>
+      <h1>Hello vite on Github Page</h1>
     </>
   )
 }
